@@ -1,0 +1,28 @@
+
+NexaTel Customer Churn Analytics
+Phase 2: Exploratory Data Analysis
+
+Total customers: 19,076
+Churned customers: 3,516
+Active customers: 15,560
+Overall churn rate: 18.43%
+
+Charts folder: D:\internmo internship projects\project 2\phase2_outputs\charts
+
+Charts planned:
+1. Overall churn rate
+2. Churn by billing cycle
+3. Churn by tenure band
+4. Churn by unresolved complaints
+5. Churn by customer segment
+6. Top 10 states by churned customers
+7. Average data usage by city tier
+8. Monthly subscription charge distribution
+9. Network quality vs churn
+10. Retention campaign outcomes
+
+Review each chart and document 2-3 sentences of
+observations based on the actual dataset results.
+
+Note: Charts may be skipped if required columns are absent.
+Verify the generated PNG files before submission.

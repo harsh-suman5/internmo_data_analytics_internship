@@ -1,0 +1,38 @@
+
+NEXATEL CUSTOMER CHURN ANALYTICS
+PHASE 1: DATA QUALITY REPORT
+
+Prepared by: Harsh Suman
+Report Date: 11-10-2026
+
+1. DATA LOADING
+Expected CSV files: 24
+Successfully loaded: 24
+Missing files: 0
+Total rows across loaded tables: 756,952
+
+2. DATA QUALITY FINDINGS
+Tables containing missing values: 4
+Total exact duplicate rows across tables: 696
+
+3. REFERENTIAL INTEGRITY
+Relationships checked: 6
+Review referential_integrity_report.csv for broken references.
+
+4. DATA VALIDATION
+Review date_issues_report.csv for invalid dates.
+Review numeric_issues_report.csv for invalid numeric values.
+Review billing checks for future dates and negative amounts.
+Review usage outlier flags for unusual data consumption.
+Review customer validation and subscription checks.
+
+5. RECOMMENDATIONS
+- Investigate missing values before deciding how to handle them.
+- Verify duplicate primary keys before removing any records.
+- Review unusual usage values with business context.
+- Correct invalid dates and numeric values only after verification.
+- Compare detected problems with data_quality_issue_log.csv.
+- Preserve the original raw CSV files.
+
+Note: All findings should be verified against the actual dataset
+before this report is submitted.

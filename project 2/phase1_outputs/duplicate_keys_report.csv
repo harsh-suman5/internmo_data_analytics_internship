@@ -1,0 +1,7 @@
+Table,Key,Duplicate_Count,Null_Count
+customers,customer_id,76,0
+subscriptions,subscription_id,0,0
+billing,invoice_id,344,0
+payments,payment_id,276,0
+complaints,complaint_id,0,0
+support_tickets,ticket_id,0,0

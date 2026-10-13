@@ -1,0 +1,10 @@
+Table,Column,Invalid_Numeric_Values
+customers,tenure_months,0
+customers,annual_income_inr,0
+subscriptions,monthly_charge_inr,0
+billing,base_amount_inr,0
+billing,gst_amount_inr,0
+billing,total_amount_inr,0
+usage_data,data_gb_used,0
+usage_data,data_sessions,0
+support_tickets,resolution_hours,0

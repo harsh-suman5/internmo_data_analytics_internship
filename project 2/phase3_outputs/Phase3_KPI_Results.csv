@@ -1,0 +1,11 @@
+KPI,Value,Unit,Notes
+Customer Churn Rate,1.24360386035365,%,Estimated for 2026-03; 192 lost / 15439 at start
+Customer Retention Rate,98.74344193276767,%,(15248 end - 3 new) / 15439 start
+Monthly Recurring Revenue (MRR),14920323.0,INR,Sum of monthly charges for active subscriptions
+ARPU,951.9154651014419,INR per subscriber/month,Estimated as active-subscription MRR / current active subscribers
+Customer Lifetime Value (CLV),22963.47322765806,INR,Uses assumed gross margin of 30% and monthly churn
+Revenue Lost to Churn,2566181.0,INR/month,Estimated monthly charges associated with customers marked churned
+First Contact Resolution (FCR),40.412829469672914,%,12726 first-contact resolutions / 31490 valid tickets
+Average Resolution Time,16.044465901566983,hours,"Mean of 18,124 valid resolution-time records"
+Contract Renewal Rate,60.3216278306531,%,3676 renewed / 6094 contracts classified as due
+Average Customer Tenure,87.0953084832905,months,"Mean tenure for active-base records; n=15,560"

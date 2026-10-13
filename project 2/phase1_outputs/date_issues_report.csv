@@ -1,0 +1,11 @@
+Table,Column,Invalid_Dates
+customers,acquisition_date,0
+customers,churn_date,0
+billing,billing_date,0
+payments,payment_date,0
+subscriptions,start_date,0
+subscriptions,end_date,0
+plan_history,change_date,0
+contracts,start_date,0
+contracts,end_date,0
+recharges,recharge_date,0

@@ -1,0 +1,45 @@
+NexaTel Customer Churn Analytics — Phase 3 KPI Summary
+============================================================
+
+Prepared by: Harsh Suman
+
+KPI: Customer Churn Rate
+Value: 1.24%
+Notes: Estimated for 2026-03; 192 lost / 15439 at start
+------------------------------------------------------------
+KPI: Customer Retention Rate
+Value: 98.74%
+Notes: (15248 end - 3 new) / 15439 start
+------------------------------------------------------------
+KPI: Monthly Recurring Revenue (MRR)
+Value: ₹14,920,323.00
+Notes: Sum of monthly charges for active subscriptions
+------------------------------------------------------------
+KPI: ARPU
+Value: ₹951.92 per subscriber/month
+Notes: Estimated as active-subscription MRR / current active subscribers
+------------------------------------------------------------
+KPI: Customer Lifetime Value (CLV)
+Value: ₹22,963.47
+Notes: Uses assumed gross margin of 30% and monthly churn
+------------------------------------------------------------
+KPI: Revenue Lost to Churn
+Value: ₹2,566,181.00 per month
+Notes: Estimated monthly charges associated with customers marked churned
+------------------------------------------------------------
+KPI: First Contact Resolution (FCR)
+Value: 40.41%
+Notes: 12726 first-contact resolutions / 31490 valid tickets
+------------------------------------------------------------
+KPI: Average Resolution Time
+Value: 16.04 hours
+Notes: Mean of 18,124 valid resolution-time records
+------------------------------------------------------------
+KPI: Contract Renewal Rate
+Value: 60.32%
+Notes: 3676 renewed / 6094 contracts classified as due
+------------------------------------------------------------
+KPI: Average Customer Tenure
+Value: 87.10 months
+Notes: Mean tenure for active-base records; n=15,560
+------------------------------------------------------------
